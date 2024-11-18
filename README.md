@@ -1,5 +1,6 @@
 # Личный трекер задач.
 ### Проект по Python в МФТИ.
+### Чуйкин Владимир Б05-408
 ![python](https://img.shields.io/badge/Python-v3.10.0-blue?logo=python&color=black&link=https%3A%2F%2Fwww.python.org%2F)
 
 ## Содержание
